@@ -12,10 +12,11 @@
     "bootstrap": "^4.6.2",
     "bootstrap-vue": "^2.22.0",
     "core-js": "^3.25.3",
+    "node-sass": "^9.0.0",
     "nuxt": "^2.15.8",
+    "sass-loader": "^13.3.2",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
-  },
-  "devDependencies": {}
+  }
 }
